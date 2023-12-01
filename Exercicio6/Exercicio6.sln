@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio6", "Exercicio6\Exercicio6.csproj", "{27F76FD5-927B-484E-8F49-A9C13F68AB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{270EB381-7983-4E9D-81A4-764B94CDF801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{1370E61A-1858-4A32-A074-E584FB8D3E34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F76FD5-927B-484E-8F49-A9C13F68AB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F76FD5-927B-484E-8F49-A9C13F68AB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F76FD5-927B-484E-8F49-A9C13F68AB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F76FD5-927B-484E-8F49-A9C13F68AB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270EB381-7983-4E9D-81A4-764B94CDF801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270EB381-7983-4E9D-81A4-764B94CDF801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270EB381-7983-4E9D-81A4-764B94CDF801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270EB381-7983-4E9D-81A4-764B94CDF801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1370E61A-1858-4A32-A074-E584FB8D3E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1370E61A-1858-4A32-A074-E584FB8D3E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1370E61A-1858-4A32-A074-E584FB8D3E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1370E61A-1858-4A32-A074-E584FB8D3E34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5637F3DB-20D5-429D-A63F-0BFAE10EF2A8}
+	EndGlobalSection
+EndGlobal

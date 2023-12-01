@@ -1,0 +1,17 @@
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\bin\Debug\net6.0-windows\Teste.exe
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\bin\Debug\net6.0-windows\Teste.deps.json
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\bin\Debug\net6.0-windows\Teste.runtimeconfig.json
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\bin\Debug\net6.0-windows\Teste.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\bin\Debug\net6.0-windows\Teste.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.csproj.AssemblyReference.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.Exercicio1.resources
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.csproj.GenerateResource.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.AssemblyInfoInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.AssemblyInfo.cs
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.csproj.CoreCompileInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\refint\Teste.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\Teste.genruntimeconfig.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Teste\obj\Debug\net6.0-windows\ref\Teste.dll

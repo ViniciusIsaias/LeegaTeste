@@ -1,0 +1,7 @@
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\bin\Exercicio5.dll.config
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\bin\Exercicio5.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\bin\Exercicio5.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\obj\Debug\Exercicio5.csproj.AssemblyReference.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\obj\Debug\Exercicio5.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio5\obj\Debug\Exercicio5.pdb

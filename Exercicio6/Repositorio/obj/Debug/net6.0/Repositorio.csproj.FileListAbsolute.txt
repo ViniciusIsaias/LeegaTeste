@@ -1,0 +1,15 @@
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\bin\Debug\net6.0\Repositorio.deps.json
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\bin\Debug\net6.0\Repositorio.dll
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\bin\Debug\net6.0\Repositorio.pdb
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\bin\Debug\net6.0\Dominio.dll
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\bin\Debug\net6.0\Dominio.pdb
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.csproj.AssemblyReference.cache
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfoInputs.cache
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.AssemblyInfo.cs
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.csproj.CopyComplete
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.dll
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\refint\Repositorio.dll
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\Repositorio.pdb
+C:\Users\vinii\source\repos\Exercicio6\Repositorio\obj\Debug\net6.0\ref\Repositorio.dll

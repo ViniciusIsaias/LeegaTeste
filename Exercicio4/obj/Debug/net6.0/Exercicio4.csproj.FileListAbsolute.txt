@@ -1,0 +1,15 @@
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\bin\Debug\net6.0\Exercicio4.exe
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\bin\Debug\net6.0\Exercicio4.deps.json
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\bin\Debug\net6.0\Exercicio4.runtimeconfig.json
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\bin\Debug\net6.0\Exercicio4.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\bin\Debug\net6.0\Exercicio4.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.AssemblyReference.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.AssemblyInfo.cs
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\refint\Exercicio4.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\Exercicio4.genruntimeconfig.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio4\obj\Debug\net6.0\ref\Exercicio4.dll

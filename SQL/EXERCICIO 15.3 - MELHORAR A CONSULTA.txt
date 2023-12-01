@@ -1,0 +1,16 @@
+Para melhorar a consulta eu criaria mais duas tabelas.
+Uma tabela para DadosPessoais e outra para Estados.
+
+Pensando que um aluno pode ter mais de uma matricula
+iria ficar duplicado dados como nome e idade.
+
+Então ficaria assim
+
+Tabela Alunos (Matricula int, IdAluno int, IdCampus int)
+Tabela DadosPessoas (IdAluno int, Nome varchar, Idade int, IdEstado int)
+Tabela Estado (IdEstado int, NomeEstado varchar)
+Tabela Campus (Id int, Nome varchar, IdEstado int)
+
+Além de fazer as consultas unindo tabelas com campos textos
+a consulta fica mais lenta do que fazer com campos inteiros
+e chaves primarias.

@@ -1,0 +1,17 @@
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.exe
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.deps.json
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.runtimeconfig.json
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\bin\Debug\net6.0-windows\Exercicio7.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.csproj.AssemblyReference.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.Form1.resources
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.csproj.GenerateResource.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.AssemblyInfo.cs
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\refint\Exercicio7.dll
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.pdb
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\Exercicio7.genruntimeconfig.cache
+C:\Users\vinii\Documents\Empresas\Leega\Teste Vinicius Isaias\Teste\Exercicio7\obj\Debug\net6.0-windows\ref\Exercicio7.dll
